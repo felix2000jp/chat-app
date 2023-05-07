@@ -12,11 +12,11 @@ This project also serves an educational role as I want to use this to learn a ne
 
 ## How
 
-| Mobile                                                                                         |
-| ---------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/felix2000jp/chat-app/blob/main/images/sign-in.png" width="200" /> |
-| ![alt text](https://github.com/felix2000jp/chat-app/blob/main/images/sign-up.png)              |
-| ![alt text](https://github.com/felix2000jp/chat-app/blob/main/images/home.png)                 |
-| ![alt text](https://github.com/felix2000jp/chat-app/blob/main/images/enter-room.png)           |
-| ![alt text](https://github.com/felix2000jp/chat-app/blob/main/images/create-room.png)          |
-| ![alt text](https://github.com/felix2000jp/chat-app/blob/main/images/room.png)                 |
+| Mobile                                                                                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/felix2000jp/chat-app/blob/main/images/sign-in.png" width="200" /> <img src="https://github.com/felix2000jp/chat-app/blob/main/images/sign-up.png" width="200" /> |
+| ![alt text](https://github.com/felix2000jp/chat-app/blob/main/images/sign-up.png)                                                                                                             |
+| ![alt text](https://github.com/felix2000jp/chat-app/blob/main/images/home.png)                                                                                                                |
+| ![alt text](https://github.com/felix2000jp/chat-app/blob/main/images/enter-room.png)                                                                                                          |
+| ![alt text](https://github.com/felix2000jp/chat-app/blob/main/images/create-room.png)                                                                                                         |
+| ![alt text](https://github.com/felix2000jp/chat-app/blob/main/images/room.png)                                                                                                                |
