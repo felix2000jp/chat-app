@@ -1,0 +1,13 @@
+.DS_Store
+.idea
+notes-app.sln.DotSettings.user
+sqlite.db-shm
+sqlite.db-wal
+
+api/appsettings.json
+api/bin
+api/obj
+
+web/node_modules
+web/bin
+web/obj
